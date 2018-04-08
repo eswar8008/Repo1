@@ -1,11 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 5E79-75F2
-
- Directory of C:\Users\Eswar\Desktop\MyProject
-
-04/08/2018  01:39 PM    <DIR>          .
-04/08/2018  01:39 PM    <DIR>          ..
-04/08/2018  01:38 PM    <DIR>          .git
-04/08/2018  01:39 PM                 0 test.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  443,229,691,904 bytes free
+Welcome to git
